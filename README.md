@@ -29,9 +29,6 @@ https://eater.net/8bit/control
 Hecha en Python se copio descaradamente de este link:
 https://github.com/jaychandra86/EaterEmulator
 
-En la **[Semana 3](/semana3/README.md)** se desarrollo los componentes de la arquitectura acumulador:
-![Arquitectura ACC](./img/arquitectura-ACC.png)
-
 
 ## Usando_ensamblador
 
@@ -136,10 +133,7 @@ Ejecute:
 
 ## Para_hacer
 
-Teniendo en cuenta las medidas de rendimiento vistas en la **[Semana 2](/semana2/README.md)**  y los pasos del ciclo de instrucción vistas en la **[Semana 3](/semana3/README.md)** 
-
-![Cilco instruccion](./img/cicloinstruccion.png)
-
+Teniendo en cuenta las medidas de rendimiento vistas en la Semana 2 y los pasos del ciclo de instrucción vistas en la Semana 3.
 
 Calcular:
 
