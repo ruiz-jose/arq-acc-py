@@ -1,3 +1,9 @@
+1- Realizar un Fork de este repositorio a tu cuenta de github.
+
+2- Puedes modificar el proyecto a través del editor online https://insiders.vscode.dev/
+
+
+
 # Aprender Arquitectura programando!!
 
 Objetivo: comprender como funcionamiento de la arquitectura acumulador (programando)
