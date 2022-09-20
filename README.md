@@ -12,8 +12,9 @@ Objetivo: comprender como funcionamiento de la arquitectura acumulador (programa
    * [Etiquetas](#etiquetas)
    * [Espacio en blanco](#Espacio_en_blanco)
 * [Ejecutar código](#Ejecutar_código)
-* [Para hacer](#Para_hacer)
+* [Para hacer1](#Para_hacer1)
     * [Ciclos instrucciones](#Ciclos_instrucciones)
+* [Para hacer2](#Para_hacer2) 
 
 
 
@@ -131,7 +132,7 @@ Ejecute:
  python cpu.py <nombre de archivo asm>
 ```
 
-## Para_hacer 1
+## Para_hacer1
 
 Teniendo en cuenta las medidas de rendimiento vistas en la Semana 2 y los pasos del ciclo de instrucción vistas en la Semana 3.
 
@@ -144,13 +145,6 @@ A partir de la implementacion de la arquitectura acumulador hecha en python que 
 - Promedio de ciclos por instruccion para el programa (**CPI**)
 
 - Tiempo de CPU para el programa (**Time CPU**) sabiendo que:
-
-| Mnemonic | Ciclos
-|----------|------------
-| LDA      | 14 ciclos
-| STA      | 14 ciclos
-| ADD      | 14 ciclos
-| HLT      | 8 ciclos
 
 - La Duración del ciclo o Frecuencia (Hz) necesarias para calcular el Tiempo de CPU se debe tener en cuenta los siguientes datos:
     * El CPU funciona a 20 Hz por lo que:
@@ -174,8 +168,16 @@ A partir de la implementacion de la arquitectura acumulador hecha en python que 
 
     - Etapa ejecucion:
         * 7 ciclos = 3 ciclos CPU (pasos para ejecutar la instruccion) + 4 ciclos que el CPU espera para que la memoria devuelva el dato x solicitado por la instruccion 
-        
-## Para_hacer 2
+
+### Ciclos_instrucciones
+| Mnemonic | Ciclos
+|----------|------------
+| LDA      | 14 ciclos
+| STA      | 14 ciclos
+| ADD      | 14 ciclos
+| HLT      | 8 ciclos
+
+## Para_hacer2
 1- Realizar un Fork de este repositorio a tu cuenta de github.
 
 2- Abrir el repositorio de tu cuenta de github con el editor online https://insiders.vscode.dev/ o realizar desde un editor en la maquina local.
