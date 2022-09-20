@@ -1,9 +1,3 @@
-1- Realizar un Fork de este repositorio a tu cuenta de github.
-
-2- Puedes modificar el proyecto a través del editor online https://insiders.vscode.dev/
-
-
-
 # Aprender Arquitectura programando!!
 
 Objetivo: comprender como funcionamiento de la arquitectura acumulador (programando)
@@ -137,7 +131,7 @@ Ejecute:
  python cpu.py <nombre de archivo asm>
 ```
 
-## Para_hacer
+## Para_hacer 1
 
 Teniendo en cuenta las medidas de rendimiento vistas en la Semana 2 y los pasos del ciclo de instrucción vistas en la Semana 3.
 
@@ -180,3 +174,12 @@ A partir de la implementacion de la arquitectura acumulador hecha en python que 
 
     - Etapa ejecucion:
         * 7 ciclos = 3 ciclos CPU (pasos para ejecutar la instruccion) + 4 ciclos que el CPU espera para que la memoria devuelva el dato x solicitado por la instruccion 
+        
+## Para_hacer 2
+1- Realizar un Fork de este repositorio a tu cuenta de github.
+
+2- Abrir el repositorio de tu cuenta de github con el editor online https://insiders.vscode.dev/ o realizar desde un editor en la maquina local.
+
+3- Actualizar los cambios del repositorio en tu cuenta de github.
+
+4- Desde el repositorio en github crear un pull request para contribuir al repositorio **[arq-acc-py](https://github.com/ruiz-jose/arq-acc-py)**
